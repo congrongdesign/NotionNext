@@ -63,8 +63,8 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'photoshop',
-      img_1: '/images/heo/图片1.png',
+      title_1: 'MJ',
+      img_1: '/images/heo/图片3.png',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
       img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
