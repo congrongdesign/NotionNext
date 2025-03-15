@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享设计',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'CONGRONGPPT.COM',
-  HEO_HERO_TITLE_4: '2025年度主题',
+  HEO_HERO_TITLE_4: '2025',
   HEO_HERO_TITLE_5: '路虽远，行则将至；事虽难，做则必成。',
   HEO_HERO_TITLE_LINK: 'https://congrongppt.com',
   // 英雄区遮罩文字
