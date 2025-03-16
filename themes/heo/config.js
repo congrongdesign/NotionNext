@@ -57,7 +57,7 @@ const CONFIG = {
     {
       title_1: 'AfterEffect',
       img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
-      color_1: '#989bf8',
+      color_1: '#ffffff',
       title_2: 'ppt',
       img_2: '/images/heo/ppt.png',
       color_2: '#ffffff'
@@ -65,10 +65,10 @@ const CONFIG = {
     {
       title_1: 'MJ',
       img_1: '/images/heo/图片3.png',
-      color_1: '#57b6e6',
+      color_1: '#ffffff',
       title_2: 'Photoshop',
       img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
-      color_2: '#4082c3'
+      color_2: '#ffffff'
     },
     {
       title_1: 'jimeng',
@@ -81,34 +81,34 @@ const CONFIG = {
     {
       title_1: 'lib',
       img_1: '/images/heo/lib.png',
-      color_1: '#eb6840',
+      color_1: '#ffffff',
       title_2: 'cam',
       img_2: '/images/heo/cam.png',
-      color_2: '#8f55ba'
+      color_2: '#ffffff'
     },
     {
       title_1: 'illustrator',
       img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
-      color_1: '#f29e39',
+      color_1: '#ffffff',
       title_2: 'gpt',
       img_2: '/images/heo/gpt.png',
-      color_2: '#2c51db'
+      color_2: '#ffffff'
     },
     {
       title_1: 'jy',
       img_1: '/images/heo/jianying.png',
-      color_1: '#f7cb4f',
+      color_1: '#ffffff',
       title_2: 'notion',
       img_2: '/images/heo/Notion.png',
-      color_2: '#e9572b'
+      color_2: '#ffffff'
     },
     {
       title_1: 'zotero',
       img_1: '/images/heo/zotero.png',
-      color_1: '#df5b40',
+      color_1: '#ffffff',
       title_2: 'fig',
-      img_2: '/images/heo/fig.png',
-      color_2: '#1f1f1f'
+      img_2: '/images/heo/fia.png',
+      color_2: '#ffffff'
     }
   ],
 
