@@ -58,8 +58,8 @@ const CONFIG = {
       title_1: 'AfterEffect',
       img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
       color_1: '#989bf8',
-      title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      title_2: 'ppt',
+      img_2: '/images/heo/ppt.png',
       color_2: '#ffffff'
     },
     {
@@ -71,43 +71,43 @@ const CONFIG = {
       color_2: '#4082c3'
     },
     {
-      title_1: 'FinalCutPro',
-      img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
+      title_1: 'jimeng',
+      img_1: '/images/heo/jm.png',
       color_1: '#ffffff',
-      title_2: 'Python',
-      img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
+      title_2: 'blender',
+      img_2: '/images/heo/blender.png',
       color_2: '#ffffff'
     },
     {
-      title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
+      title_1: 'lib',
+      img_1: '/images/heo/lib.png',
       color_1: '#eb6840',
-      title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
+      title_2: 'cam',
+      img_2: '/images/heo/cam.png',
       color_2: '#8f55ba'
     },
     {
       title_1: 'illustrator',
       img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
       color_1: '#f29e39',
-      title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
+      title_2: 'gpt',
+      img_2: '/images/heo/gpt.png',
       color_2: '#2c51db'
     },
     {
-      title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
+      title_1: 'jy',
+      img_1: '/images/heo/jianying.png',
       color_1: '#f7cb4f',
-      title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
+      title_2: 'notion',
+      img_2: '/images/heo/Notion.png',
       color_2: '#e9572b'
     },
     {
-      title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
+      title_1: 'zotero',
+      img_1: '/images/heo/zotero.png',
       color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
+      title_2: 'fig',
+      img_2: '/images/heo/fig.png',
       color_2: '#1f1f1f'
     }
   ],
