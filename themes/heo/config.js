@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2025-03-16', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-03-15', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -18,18 +18,18 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享设计',
-  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_2: '学习与思考',
   HEO_HERO_TITLE_3: 'CONGRONGPPT.COM',
   HEO_HERO_TITLE_4: '2025',
-  HEO_HERO_TITLE_5: '路虽远，行则将至；事虽难，做则必成。',
+  HEO_HERO_TITLE_5: '有想法就干，干了才知道有多烂。',
   HEO_HERO_TITLE_LINK: 'https://congrongppt.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '作品展示', url: '/tag/作品展示' },
+  HEO_HERO_CATEGORY_2: { title: '经验分享', url: '/tag/经验分享' },
+  HEO_HERO_CATEGORY_3: { title: '思考感悟', url: '/tag/思考感悟' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
